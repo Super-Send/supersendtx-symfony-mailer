@@ -1,6 +1,6 @@
 # supersendtx/symfony-mailer
 
-[Symfony Mailer](https://symfony.com/doc/current/mailer.html) transport for [SuperSend TX](https://supersendtx.com) transactional email (HTTP API).
+[Symfony Mailer](https://symfony.com/doc/current/mailer.html) transport for [SuperSend TX](https://ranla.ai) transactional email (HTTP API).
 
 ## Install
 
@@ -66,7 +66,7 @@ framework:
 
 ## Docs
 
-https://docs.supersendtx.com/frameworks/symfony
+https://docs.ranla.ai/frameworks/symfony
 
 ## License
 

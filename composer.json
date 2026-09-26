@@ -17,9 +17,9 @@
       "name": "SuperSend TX"
     }
   ],
-  "homepage": "https://supersendtx.com",
+  "homepage": "https://ranla.ai",
   "support": {
-    "docs": "https://docs.supersendtx.com/frameworks/symfony",
+    "docs": "https://docs.ranla.ai/frameworks/symfony",
     "issues": "https://github.com/Super-Send/supersendtx-sdks/issues",
     "source": "https://github.com/Super-Send/supersendtx-symfony-mailer"
   },
